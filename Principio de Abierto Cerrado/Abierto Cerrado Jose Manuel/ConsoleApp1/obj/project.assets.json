@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "c:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel 1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "c:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel 1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel\\ConsoleApp1\\obj\\",
+      "outputPath": "c:\\Users\\josem\\Documents\\2-Tecnologias-Construccion\\EXPOSICIONES\\SOLID\\Principio de Abierto Cerrado\\Abierto Cerrado Jose Manuel 1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
