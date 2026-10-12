@@ -1,0 +1,15 @@
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\bin\Debug\net10.0\SingletonExpo.exe
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\bin\Debug\net10.0\SingletonExpo.deps.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\bin\Debug\net10.0\SingletonExpo.runtimeconfig.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\bin\Debug\net10.0\SingletonExpo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\bin\Debug\net10.0\SingletonExpo.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.AssemblyInfoInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.AssemblyInfo.cs
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.csproj.CoreCompileInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.sourcelink.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\refint\SingletonExpo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\SingletonExpo.genruntimeconfig.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Singleton\SingletonExpo\obj\Debug\net10.0\ref\SingletonExpo.dll
