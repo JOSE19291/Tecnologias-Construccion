@@ -1,0 +1,15 @@
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\bin\Debug\net10.0\CasoMalo.exe
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\bin\Debug\net10.0\CasoMalo.deps.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\bin\Debug\net10.0\CasoMalo.runtimeconfig.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\bin\Debug\net10.0\CasoMalo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\bin\Debug\net10.0\CasoMalo.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.AssemblyInfoInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.AssemblyInfo.cs
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.csproj.CoreCompileInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.sourcelink.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\refint\CasoMalo.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\CasoMalo.genruntimeconfig.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\CasoMalo\obj\Debug\net10.0\ref\CasoMalo.dll

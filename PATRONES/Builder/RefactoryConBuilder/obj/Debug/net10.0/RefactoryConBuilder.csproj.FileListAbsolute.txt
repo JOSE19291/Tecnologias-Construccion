@@ -1,0 +1,15 @@
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\bin\Debug\net10.0\RefactoryConBuilder.exe
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\bin\Debug\net10.0\RefactoryConBuilder.deps.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\bin\Debug\net10.0\RefactoryConBuilder.runtimeconfig.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\bin\Debug\net10.0\RefactoryConBuilder.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\bin\Debug\net10.0\RefactoryConBuilder.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.AssemblyInfoInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.AssemblyInfo.cs
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.csproj.CoreCompileInputs.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.sourcelink.json
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\refint\RefactoryConBuilder.dll
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.pdb
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\RefactoryConBuilder.genruntimeconfig.cache
+c:\Users\josem\Documents\2-Tecnologias-Construccion\EXPOSICIONES\SOLID\PATRONES\Builder\RefactoryConBuilder\obj\Debug\net10.0\ref\RefactoryConBuilder.dll
